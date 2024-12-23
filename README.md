@@ -62,7 +62,7 @@ The snake game is created using **Pygame**. The state of the game is represented
 
 The game is initialized with a snake in the center of the screen, and food is randomly generated on the grid.
 
-![Initial Game State](images/initial_game_state.png)
+![Initial Game State](images/game.png)
 
 ### DQN Agent
 
