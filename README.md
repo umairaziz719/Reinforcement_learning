@@ -87,7 +87,7 @@ The training loop continues for a set number of episodes (`max_epsilon_steps`), 
 ### Initial Screen:
 The initial state of the game shows the snake in the center of the screen, with food placed randomly.
 
-![Initial Game State](images/initial_game.png)
+![Initial Game State](images/game.png)
 
 ### Game in Progress:
 As the snake moves and eats food, its body grows longer, and it navigates the grid based on the agent's learned actions.
